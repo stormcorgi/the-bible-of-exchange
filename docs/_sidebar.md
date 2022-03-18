@@ -1,8 +1,8 @@
 <!-- docs/_sidebar.md -->
 
 - [Exchange Server 虎の巻](/)
-  - [これはなに？](#これはなに)
-  - [誰が書いている？](#誰が書いている)
+  - [これはなに？](/#これはなに)
+  - [誰が書いている？](/#誰が書いている)
   - [イントロダクション](introduction.md)
   - [現地調査](field-survey.md)
   - [基本設計](basic-design.md)
